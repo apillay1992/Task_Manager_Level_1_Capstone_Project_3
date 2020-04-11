@@ -1,0 +1,14 @@
+There are 2 number of users registered with task manager
+There are 5 number of tasks generated using task manager
+
+The total tasks assigned to user admin is 3
+There are 60.0% of tasks assigned to user admin
+There are 66.67% of tasks assigned to user admin
+There are 33.33% of tasks assigned to user admin which are not completed 
+There are 0% of tasks assigned to user admin which are not completed and are overdue.
+
+The total tasks assigned to user ashley is 2
+There are 40.0% of tasks assigned to user ashley
+There are 0% of tasks assigned to user ashley
+There are 100.0% of tasks assigned to user ashley which are not completed 
+There are 100.0% of tasks assigned to user ashley which are not completed and are overdue.
